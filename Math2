@@ -1,0 +1,30 @@
+[CTDI-Math(Damien Gobin)$15h30$17h$TD29$BAT18]
+
+Methode : Pour résoudre une équai=tion du type :
+
+ax+b = cx+d
+a,b,c,d des nombres réels.
+[1] on isole les x d'un coté. ---> a'x+b'=c'
+[2] On isole les constantes de l'autre coté
+[3] On divise pour le coefficient de vont x ---> x= b"/a"
+
+Props: Soient a et b deux nombres réels avec a {different non egale} 0
+Alors l'équation ax+b = 0
+possède une unique solution x=-b/a
+  Preuve: ax+b=0 ==> ax=-b
+                 ==> x= -b/a
+                 
+Exemple: Résoudre 
+(E1) 3x+2=5
+(E2) 3/2x+3=4
+(E3) -5x-2=8
+(E4) x/3+1=2x-1
+
+3X+2=5
+3X=3
+x=1
+
+***multiplie par son opposé/denominateur commun***
+
+
+
