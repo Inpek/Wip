@@ -1,0 +1,88 @@
+[CTDI-Physique_Elec(Sandrine Auzary)$14h$15h20$TD29$BAT18]
+
+g.1 Caracter --[]--<  i>O
+             -----> U>O
+
+g.2) Convention generateur / se capteur 
+Soit un dipole dont le sens du courant est arbitrairement choisi
+---[]--->---
+        > i arbitraire
+  ----->
+* Si la tension est flécher dans le sens de i on a i -> convention générateur
+  Si la tension est fléché dans le sens de i on a i -> convention récepteur
+  
+Exemple Schéma
+
+ --|---[]--->---|---
+   A     i=1A   B
+   <--------------
+   u=5V
+   ------------->
+   u=-5v
+
+Convention : générateur u et i meme sens
+Caractère : recepteur car u>0 t i<0 sens inverse
+
+X Conservation de l'energie et des puissances
+Enoncé : Dans un circuit donné il y a conservation de la puissance et de l energie :
+la somme des puissance/energie fournit est égale à la somme des puissance/energie reçus
+
+Pfournie = Preçus
+Wfournie = Wreçus
+
+----(A)----------------
+ |          |         |
+ |com       |         |
+(V)         []        ()
+ |          ^         |
+(A)         (A)       |
+ |          | com     |
+-----------------------
+I = OA
+I = -2A
+
+III 
+Q= 60Ah
+I= 250 A
+
+1) Delta.t ?
+Delta.t.I = Q/Delta.t
+Q = I.Delta.t
+
+Q en Coulomb :
+Q = 60Ah = 60A.3600s
+         = 60x3600C
+         = 216 000 C
+Delta.t = 216 000C/ 250 A
+= 864s
+
+Delta.t = Q/I
+min--A.min--A
+
+
+Ex 4 :
+Delta.t = 24h = 24*3600s
+P= 600kW
+
+1) We = P.DeltaT
+      = 600.10^3*24*3600
+      = 6,0.10^5*24*3600
+   Wk = 5,184.10^10
+   
+   
+1Wh = 1W*3600s
+1Wh = 3600I
+1kWH = 10^3WH= 3,6.10^6
+
+2) 
+
+Exercice 5 : 
+
+u=230V
+We= 15 kWh
+Delta.t = 5h
+I
+
+We 
+   
+  
