@@ -1,0 +1,98 @@
+[CTDI-Math(Damien Gobin)$12h30$13h50$TD29$BAT18]
+
+Ex 9 :
+
+1) evolution = Vfin-Vinit/Vinit*100
+  C3 = C2-B2/B2*100
+2) P200 = (1+0,67/100)xP1999
+   P1999 = 60571/1,0067 = 60 168
+   
+3)
+  a)Un+1 = 1,0067*Un
+  
+  b) Un = 1,0067*Un-1
+        = 1,0067* 1,0067* Un-2
+        = (1,0067)^n*U0
+        [UO] (P2000 = 60 571)
+  c) U5 = (1,0067)^5*60571=env 62 628
+  or, P2005 = 62818 est prche de U3. Donne le modèle est bon?
+  
+  d) U20 = (1,0067)^20*60571
+         =env ??
+         
+ ## Chapitre 3 ; Equation et inéquations
+ 
+ ### I-Résolution d'équations
+ 
+ Prop : 
+ [1] Si a,b et c sont des réels, a=b si et seulement si a+c = b+c
+ [2] Si a,b,c sont des réels et c{n est pas égal}0, alors a=b si et seulement si ac = bc
+ 
+ Def : Résoudre une équation (E) d'inconnue x: 
+ f(x)= 0 (E) où f(x) est une expression dépedant de x consiste à chercher touts les nombres a tels que f(a)=0 ;
+ 
+ **On dit alors que a est une solution de (E).
+  x+1 = 0
+  x= -1 {R Barré ensemble de l intervalle}
+  x+1 = 0 n'a pas de solution dans l intervalle N.
+  
+  Ex : On considère l'équation 2x^2 + x = -x+4
+  
+  :clown_face: [Alt+8771/&#8771] [Alt+8800] [Alt+251]
+  
+  car : 2*1^2+1 = 2+1 = 3
+  et    -1+4=3
+  [2] -2 est également solution
+      car: 2*(-2)^é-2 = 8-2 = 6
+      et -(-2)+4 = 6
+  [3] 3 n'est pas solution car ; 2*3^2 + 3 ) 2*9+3 = 21
+      et -3 +4 = 1
+      
+  Ex: On pose A(x) = -2x^3 + 3x^2 -1
+  On veur résoudre A(x)=0 (E)
+  
+  [1] calculer A(O) x=O est in solution de (E) ?
+  [2] --> A(0) = -1 {n.e} 0 pas de solution 
+  [3] --> A(1) = 0
+  [4] --> A(1/2) = 1/2-1 = -1/2
+  [5] --> A(-1/2) = -1/8
+  
+  [6] --> A t'on finalement résolut (E) ? *Non car il peut rester d autres solutions
+  
+Def : Deux equations f(x) = 0 et g(x) = 0
+sont dites équivalentes, si
+[1] Pour tout nombre a tel que f(a)=0 alors g(a) = 0
+[2] g(b)=O alors f(b)= 0
+
+Alors, on note 
+f(x)= 0 si et seulement si g(x)= 0 
+f(x)= 0 <=> g(x)=0
+
+Ex: 
+[1] f(x)= g(x) <=> f(x)-g(x) = g(x) - g(x)
+               <=> f(x)-g(x) = 0
+               
+*** II - Equation polynomiales
+A - Généralités
+
+Def : On dit que f(x)= 0 est une éuation polynomiale si f est de la forme:
+f(x)= a{sub N}x^n +... a,x+ a0
+N s'appelle alors le degré de f.
+
+  Ex: 
+  [1] 7x^2 -3x+2 : eq. polynomiale de degré 2.
+  [2] x^17-3x+1 : 16
+  [3] x^2 + {racine carré}x -1 : n est pas une equation polynomiale
+  
+B - Equations affines 
+
+Les equations affine sont les équations polynomiales de degré 1,
+i.e f(x)= ax+b=0
+:japanese_goblin: x barré
+Exemple : 
+2x+3 -5x = 4x
+<=> -3x+3= 4x
+<=> -3x+3-4X
+exemple a chopé avec la base
+
+               
