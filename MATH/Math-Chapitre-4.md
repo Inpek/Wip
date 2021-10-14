@@ -77,6 +77,30 @@ on a Dg = R* = R\{0}
 [3] Pour h : R --> R
 			 x --> r.c(X)
 
-on a Dh=R+
+on a Dh=R+r
+
+Exple : 
+
+[1] Si f: R  --> R
+		  x |--> r.c(x+11).
+
+	alors Df = [-11,+inf]
+	a x s'associe
+	x+11>=0
+	x>-11
+
+[2] Si f: R |--> R
+		  x |--> x-1/x+3
+
+	alors Df = ]-inf,-3[U]-3,+inf[
+			 = R\{-3}
+
+[3] Si f: x |--> x+3/5x-3
+	
+	alors Df = R {3/5}
+
+[4] Si g: x |--> r.c(x-1)(-x+3) Dg = [1,3] 
+[5] Si h: x |--> r.c(x^2-1)/-x^2+9 Dh = []
+[6] Si i: x |--> r.c(x+1/x-1) 
 
 
